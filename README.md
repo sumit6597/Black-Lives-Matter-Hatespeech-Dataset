@@ -7,7 +7,7 @@
 - [Zenodo](https://doi.org/10.5281/zenodo.4000539)[ Hatespeech dataset related to Black Lives Matter collected from Twitter]
 
 
-## Cite
+## Citation
 * If you find the data useful, please cite: 
 
 ```
