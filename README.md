@@ -5,6 +5,7 @@
 
 ## References
 - [Zenodo](https://doi.org/10.5281/zenodo.4000539)[ Hatespeech dataset related to Black Lives Matter collected from Twitter]
+* Read the [paper](https://openreview.net/pdf?id=XG2YfqOQFwO)
 
 ## Cite
 * If you find the data useful, please cite: 
